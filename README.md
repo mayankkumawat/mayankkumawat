@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## About me 👋
+More than 10 projects of experience in the field of Web and Mobile Applications development on all phases of the Software development cycle using React js, React Native, JavaScript, html5, css3, bootstrap. Working knowledge with bug tracking system and source control (GIT). Also Good in problem solving, teamwork, time management and communication skills. Competence to follow production process and technical specification.
 <!--
 **mayankkumawat/mayankkumawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Stats
+![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayankkumawat&show_icons=true&theme=holi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankkumawat&size_weight=0.5&count_weight=0.5&layout=donut&theme=holi)](https://github.com/mayankkumawat/github-readme-stats)
