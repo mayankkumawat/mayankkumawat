@@ -1,4 +1,3 @@
-## $$\sf \color{#36BCF7FF} Mayank \space Kumawat$$
 <p align="center">
 <a href="https://github.com/mayankkumawat"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=540&lines=Mobile+App+%26+Web+developer+%26+Data+Scientist;10%2B+projects+of+experience+;React+Native+%26+Python" alt="Typing SVG" /></a></p>
 
