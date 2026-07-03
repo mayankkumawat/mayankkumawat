@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Statistics
-![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayankkumawat&show_icons=true&theme=holi&hide=issues,contribs)
+![Mayank's GitHub stats](https://github-stats-extended.vercel.app/api?username=mayankkumawat&show_icons=true&theme=holi&hide=issues,contribs)
